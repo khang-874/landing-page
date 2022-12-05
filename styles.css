@@ -104,3 +104,22 @@ nav{
 }
 
 /*Part 3*/
+.quote{
+    display: flex;
+    padding: 100px 240px;
+    flex-wrap: wrap;
+    background-color: #e5e7eb;
+}
+.quote-text{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+}
+.quote-author{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: right;
+    width: 100%;
+}
+
+/*Part 4*/
