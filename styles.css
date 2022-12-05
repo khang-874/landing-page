@@ -156,3 +156,12 @@ nav{
 }
 
 /*Footer*/
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #f9faf8;
+    background-color: #1f2937;
+    font-size: 24px;
+}
